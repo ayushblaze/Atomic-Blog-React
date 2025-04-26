@@ -27,3 +27,5 @@ Originally, this project used prop drilling to share state and functions between
 - The `Test.js` file is included to demonstrate React performance and rendering concepts.
 
 This project was built for learning purposes and demonstrates best practices for using the Context API in a modern React application.
+
+### Made with 💖 by Ayush Singh
